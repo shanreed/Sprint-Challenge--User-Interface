@@ -222,6 +222,19 @@ footer nav a {
     margin-bottom: 20px;
 }
 
-section {
+.about-section {
+    padding: 20px 0;
     display:flex;
+    border-bottom: 1px dashed
+    
+}
+
+button {
+    margin-top: 20px;
+}
+
+.bottom {
+    display:flex;
+    margin-top: 20px;
+    flex-wrap: wrap;
 }
