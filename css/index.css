@@ -211,3 +211,17 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*styles for about page*/
+.about-header {
+    border-bottom: 1px dashed black;
+    padding-bottom: 20px;
+}
+
+.about-img {
+    margin-bottom: 20px;
+}
+
+section {
+    display:flex;
+}
