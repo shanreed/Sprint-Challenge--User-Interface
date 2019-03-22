@@ -54,6 +54,7 @@ table {
 html, body {
     height: 100%;
     font-family: 'Roboto', sans-serif;
+    font-weight: bold;
 }
 
 h1, h2, h3, h4, h5 {
@@ -229,12 +230,21 @@ footer nav a {
     
 }
 
+h3 {
+    padding-top: 20px;
+}
+
 button {
     margin-top: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background-color: white;
+    padding: 8px;
+    font-weight: bold;
 }
 
 .bottom {
     display:flex;
-    margin-top: 20px;
+    margin: 30px 0;
     flex-wrap: wrap;
 }
